@@ -1,0 +1,10 @@
+.h{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.w{
+    background-color: #ccc;
+    padding: 20px 20px;
+}

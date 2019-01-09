@@ -1,0 +1,23 @@
+.layout::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.menu{
+    width: 200px;
+    height: 500px;
+    background: red;
+    float: left;
+}
+.aside{
+    width: 200px;
+    height: 500px;
+    background: blue;
+    float: right;
+}
+.main{
+    margin-left: 210px;
+    margin-right: 210px;
+    height: 600px;
+    background: pink;
+}

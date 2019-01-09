@@ -1,0 +1,18 @@
+.layout{
+    content: '';
+    display: block;
+    clear: both;
+}
+.aside{
+    width: 200px;
+    height: 400px;
+    background: red;
+    float: left;
+    border-right: 5px solid white ;
+}
+.main{
+    margin-left: 200px;
+    height: 500px;
+    background: blue;
+    border-left: 10px solid white ;
+}
